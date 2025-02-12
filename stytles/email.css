@@ -1,0 +1,10 @@
+.head{
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  text-align: center;
+ background-repeat: no-repeat;
+ margin-top: 400px;
+ border: 10;px solid black;
+ box-shadow: 10px 10px 10px;
+}

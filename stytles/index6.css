@@ -1,0 +1,161 @@
+.contenier {
+  width: 100%;
+}
+.contenier_wrapper {
+  width: 1200px;
+  display: flex;
+  background-color: rgb(55, 55, 220);
+  color: white;
+  gap: 70px;
+  margin: auto;
+  justify-content: space-evenly;
+  text-align: center;
+  padding-top: 50px;
+  align-items: center;
+}
+.p {
+  display: flex;
+  gap: 30px;
+}
+.buton {
+  padding-top: 5px;
+}
+.pas {
+  width: 100%;
+}
+.pas_wrapper {
+  width: 1200px;
+  display: flex;
+  background-color: rgb(55, 55, 220);
+  color: white;
+  gap: 70px;
+  margin: auto;
+  justify-content: space-evenly;
+
+  padding-top: 100px;
+}
+.imges {
+  display: flex;
+  gap: 20px;
+  padding-top: 20px;
+  padding-left: 50px;
+}
+.pases {
+  width: 100%;
+}
+.pases_wrapper {
+  width: 1200px;
+  margin: auto;
+  padding-top: 50px;
+}
+.end {
+  width: 100%;
+}
+.end_wrapper {
+  padding-top: 50px;
+  width: 1200px;
+  display: flex;
+  gap: 50px;
+  margin: auto;
+}
+.end_right {
+  padding-top: 70px;
+}
+.box {
+  width: 250px;
+  height: 250px;
+
+  text-align: center;
+}
+.endex {
+  width: 100%;
+}
+.endes_wrapper {
+  width: 1200px;
+  display: flex;
+  gap: 150px;
+  margin: auto;
+  padding-left: 200px;
+}
+.kok {
+  width: 100%;
+}
+.kok_wrapper {
+  margin: auto;
+  width: 1200px;
+  display: flex;
+  gap: 100px;
+  background-color: rgb(55, 55, 220);
+  color: white;
+  height: 300px;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+.bn {
+  padding-top: 100px;
+}
+.boxec {
+  width: 350px;
+  height: 350px;
+}
+.eng {
+  width: 100%;
+}
+.eng_wrapper {
+  width: 1200px;
+  display: flex;
+  gap: 100px;
+  margin: auto;
+  margin-top: 100px;
+}
+.oxrg {
+  margin-top: 100px;
+  width: 100%;
+}
+.oxrg_wrapper {
+  width: 1200px;
+  height: 300px;
+  display: flex;
+  margin: auto;
+  color: wheat;
+  background-color: rgb(85, 40, 0);
+  gap: 100px;
+}
+.h{
+
+font-family: 'Amiko';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+
+}
+.ph{
+
+
+font-family: 'Amiko';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+}
+.lrm{
+color: #000000;
+
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+
+}
+

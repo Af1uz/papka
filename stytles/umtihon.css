@@ -1,0 +1,469 @@
+.contenier{
+    width: 100%;
+}
+.contenier_wrapper{
+    
+    
+    width: 1200px;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    
+    background-color: aliceblue;
+    margin: auto;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    margin-top: 19px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.all{
+    padding-top: 5px;
+    
+}
+button{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(62, 62, 255);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin-top: 5px;
+    margin-left: 40px;
+    
+}
+.aa{
+    color: white;
+    text-decoration: none;
+}
+.img{
+    padding-top: 17px;
+    padding-left: 70px;
+}
+.ull{
+    margin-left: 270px;
+}
+.ull_title{
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 160% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.wrapper{
+    width: 1200px;
+    display: flex;
+    gap: 50px;
+    margin: auto;
+}
+.wrapper_title{
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 130%;
+/* or 39px */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: flex-start;
+flex-grow: 0;
+
+padding-left: 40px;
+}
+.wrapper_p{
+    /* promo-text-wrapper */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+
+
+gap: 16px;
+
+width: 470px;
+height: 104px;
+left: 100px;
+top: calc(50% - 224px/2 + 17px);
+padding-left: 40px;
+
+
+}
+.botn{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(62, 62, 255);
+    color: white;
+    border-radius: 10px;
+    border: none;
+
+}
+.wrapper_left{
+    margin-top: 150px;
+    padding-left: 30px;
+}
+.wrapper_right{
+    margin-top: 100px;
+}
+.wrapper{
+    
+    background-color: rgb(255, 255, 255);
+}
+.wrapper_footer{
+    width: 1200px;
+    
+    margin: auto;
+    padding-top: 100px;
+    background-color: rgb(255, 255, 255);
+
+}
+.foter_title{
+
+
+/* section-title */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.foter_p{
+    /* promo-text */
+
+width: 719px;
+height: 48px;
+
+/* body-text */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+padding-left: 240px;
+
+}
+.wrapper_right{
+    margin-left: 50px;
+}
+.foter_box{
+    
+    margin: auto;
+    display: inline-block;
+    display: flex;
+    margin-left: 100px;
+    gap: 100px;
+   
+}
+.box{
+    
+    width: 270px;
+    height: 220px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    box-shadow: 0px 3px 5px 0px ;
+    border: 1px solid rgb(143, 139, 139);
+
+}
+.box_title{
+
+
+/* subsection-title */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 130%;
+/* identical to box height, or 26px */
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+.box_p{
+
+
+/* body-text */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+}
+.box:hover .box_title{
+   color: white;
+}
+.box:hover {
+    background-color: rgb(53, 53, 255);
+}
+.box:hover .box_p{
+    color: wheat;
+}
+.fotter_box_end{
+    display: flex;
+    gap: 100px;
+    margin-left: 290px;
+    margin-top: 30px;
+}
+.box_fotter{
+    width: 1200px;
+    text-align: center;
+    margin: auto;
+    padding-top: 100px;
+    background-color: rgb(255, 255, 255);
+}
+.butons{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+.button_left{
+    margin-left: 400px;
+}
+.link_right{
+    margin-top: 15px;
+}
+.boxses{
+    width: 1200px;
+    margin: auto;
+    
+    
+}
+.boxses_p{
+
+
+/* body-text */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: center;
+flex-grow: 0;
+
+}
+.boxsess_title{
+
+
+/* subsection-title */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 130%;
+/* identical to box height, or 26px */
+
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: flex-start;
+flex-grow: 0;
+
+}
+.boxses_foter{
+    display: flex;
+    gap: 50px;
+}
+.boxses_foter_left{
+    margin-left: 250px;
+}
+.boxses_foter{
+    padding-top: 50px;
+    align-items: center;
+}
+.boxses_foter_lefts{
+
+}
+.form_box{
+    height: 300px;
+    width: 330px;
+    background-color: #ffffff;
+    color: white;
+    margin: auto;
+    border-radius: 15px;
+
+}
+.slct{
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-left: 60px;
+    background-color: rgb(234, 231, 227);
+    border: none;
+}
+.endrom_title{
+
+
+    /* section-title */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 130%;
+    /* or 31px */
+    margin-left: 500px;
+    
+    
+  
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    color: white;
+    }
+.enddform_p{
+        /* promo-text */
+    
+    width: 719px;
+    height: 48px;
+    
+    /* body-text */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    text-align: center;
+    
+    color: #000000;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    padding-left: 240px;
+    color: rgb(201, 195, 195);
+    }
+    .endd_form{
+        background-color: blue;
+        height: 550px;
+    }
+.footerbox_title{
+
+
+/* subsection-title */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 130%;
+/* identical to box height, or 26px */
+
+color: #000000;
+
+
+}
+.footerbox_p{
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+color: #010101;
+
+
+}
+
+.footer{
+    display: flex;
+    gap: 100px;
+}
+.box_link{
+    display: flex;
+}
+.footer{
+    background-color: #151414;
+    height: 300px;
+    
+}
+.footerbox_title{
+    color: rgb(255, 255, 255);
+}
+.footerbox_p{
+    color: rgb(179, 173, 173);
+}

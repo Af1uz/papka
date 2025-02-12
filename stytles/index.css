@@ -1,0 +1,175 @@
+.container{
+
+    margin-left: 50px;    
+    width: 100%;
+    height: 100%;
+    }
+    .text
+    {
+    
+        /* Food Exxe Relo */
+    
+    width: 196px;
+    height: 231px;
+    left: 532px;
+    top: 1258px;
+    
+    /* h2 */
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 120%;
+    /* or 77px */
+    
+    /* black */
+    color: #333333;
+    
+    margin-left: 400px;
+    
+    display: inline-block;
+    }
+    
+    .text1{
+    
+        margin-left: 250px;
+    
+    }
+    
+    .text2{
+    
+        /* Sed vel ornare ut rhoncus, ac ut nibh. Amet at sit et nibh. In lectus phasellus non ornare eget velit. Facilisi urna, tristique dui, rhoncus, dolor. Tincidunt enim gravida dignissim leo pulvinar sit volutpat nulla vestibulum. Morbi pellentesque enim massa laoreet vel id. Lectus ac, facilisis neque turpis. Morbi massa enim nullam sem vehicula. Amet quis pellentesque enim porttitor lectus interdum. Nisi, faucibus pharetra at porttitor. Fringilla luctus pretium in viverra. In adipiscing tempor amet malesuada ullamcorper ut sagittis. Dui, scelerisque vulputate risus massa dictum. Cras at quis in eu, faucibus feugiat vel. At. */
+    
+        display: inline-block;
+    
+    width: 526px;
+    height: 266px;
+    left: 862px;
+    top: 1265px;
+    
+    /* p / 18r */
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+    
+    /* black */
+    color: #333333;
+    
+    
+    }
+    .menu
+    {
+    
+        margin-left: 250px;
+    
+    }
+    
+    .text3{
+    
+        /* Меню */
+    
+    width: 196px;
+    height: 77px;
+    left: 532px;
+    top: 1789px;
+    
+    /* h2 */
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 120%;
+    /* identical to box height, or 77px */
+    
+    /* black */
+    color: #333333;
+    
+    margin-left: 400px;
+    
+    display: inline-block;
+    
+    }
+    
+    .text4{
+    
+        display: inline-block;
+        width: 500px;
+        margin-left: 30px;
+    }
+    
+    .img
+    {
+    
+        margin-left: 500px;
+    }
+    
+    .text5
+    {
+    
+        display: inline-block;
+        margin-top: 50px;
+        margin-left: 550px;
+    
+    }
+    
+    .text6{
+        display: inline-block;
+        margin-left: 370px;
+    }
+    
+    .text7{
+    
+        margin-left: 250px;
+    }
+    
+    .text8{
+    
+        margin-left: 500px;
+        
+        /* Служба доставки */
+    
+    width: 306px;
+    height: 154px;
+    left: 532px;
+    top: 2657px;
+    
+    /* h2 */
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 120%;
+    /* or 77px */
+    
+    /* black */
+    color: #333333;
+    
+    display: inline-block;
+    }
+    
+    .text9{
+    
+        display: inline-block;
+        width: 500px;
+    }
+    
+    .img1{
+    
+        margin-left: 250px;
+    }
+    
+    .foot{
+    
+        margin-top: 50px;
+    }
+    
+    .img2{
+    
+        background-image: url(../img/Rectangle\ 30.png);
+    
+        margin-left: 400px;
+        margin-top: 50px;
+    }

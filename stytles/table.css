@@ -1,0 +1,19 @@
+td, th{
+    border: 1px solid red;
+    width: 200px;
+    background-color: yellow;
+}
+table {
+    border-collapse: collapse;
+}
+th:hover{
+    background-color: yellow;
+}
+td:hover{
+    background-color: green;
+}
+
+.card{
+    margin-top: 50px;
+    color: rgb(9, 7, 7);
+}
